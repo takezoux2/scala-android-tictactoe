@@ -1,4 +1,7 @@
 target
 project/target
 *.sublime-project
-*.sublime-workspace
+*.sublime-workspac
+
+.idea/*
+.idea_modules/*
